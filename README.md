@@ -6,12 +6,7 @@ App has 8 tiles with English phrases. Upon click, the app plays the correspondin
 
 ### A sample run looks like this:
 
-
-
-
-
-
-
+![Alt text](phraseapp.JPG?raw=true "Main layout")
 
 ### Author:
 Henry Qice Wang
